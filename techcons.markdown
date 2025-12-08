@@ -7,7 +7,7 @@ permalink: /technologicalconcerns/
 
 APLR network: Flock store the vehicle- movement data in a centralized cloud platofrm so it is accessible to thousands of law enforcement agncies and entites. 
 INSERT IMAGE HERE
-
+![Slide1](https://it304finalMGfork.github.io/assets/img/Slides1.jpg)
 
 
 | PROS  |PROCESS| 
