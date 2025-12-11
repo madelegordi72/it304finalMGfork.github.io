@@ -4,15 +4,18 @@
 # THIS IS THE HOME PAGE. 
 layout: home
 navbar-links:
-  Introduction of the Technology: "https://raisschultz.github.io/introduction/"
+  Introduction of the Technology: "{{ site.baseurl }}/introduction/"
+
   Discussion of the Technology: 
-    - Benefits: "https://raisschultz.github.io/benefits/"
-    - Legal Concerns: "https://raisschultz.github.io/legalconcerns/"
-    - Social and Political Concerns and Implications: "https://raisschultz.github.io/socialpoliticalconcerns/"
-    - Technological Concerns and Implications: "https://raisschultz.github.io/technologicalconcerns/"
-    - Proposed Changes and Improvements: "https://raisschultz.github.io/proposedchanges/"
+    - - Benefits: "{{ site.baseurl }}/benefits/"
+- Legal Concerns: "{{ site.baseurl }}/legalconcerns/"
+- Social and Political Concerns and Implications: "{{ site.baseurl }}/socialpoliticalconcerns/"
+- Technological Concerns and Implications: "{{ site.baseurl }}/technologicalconcerns/"
+- Proposed Changes and Improvements: "{{ site.baseurl }}/proposedchanges/"
+
+
   Technology Examples:
-    - Flock Cameras: "https://raisschultz.github.io/flockalprs/"
-    - Border Patrol Use: "https://raisschultz.github.io/borderpatrolalprs/"
+    - Flock Cameras: "{{ site.baseurl }}/flockalprs/"
+- Border Patrol Use: "{{ site.baseurl }}/borderpatrolalprs/"
 
 ---
