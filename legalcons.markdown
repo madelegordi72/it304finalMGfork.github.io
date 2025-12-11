@@ -1,7 +1,7 @@
 ---
 layout: page
 title: THREE Legal Concerns with the ALPR Technology
-permalink: /legalconcerns/
+permalink: madelegordi72.github.io/legalconcerns/
 ---
 | REASON |PROCESS| 
 |------|-------------------|
