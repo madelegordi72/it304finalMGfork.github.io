@@ -1,7 +1,7 @@
 ---
 layout: page
 show-avatar: false
-title: Benefits
+title: Papers
 permalink: /benefits/
 ---
 
